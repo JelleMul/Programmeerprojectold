@@ -1,5 +1,5 @@
 # Programmeerproject
-## Jelle Mul
+### Jelle Mul
 ### 11402148
 
 Het bedrijf Peerby Go is een bedrijf dat mensen de mogelijkheid biedt om spullen te huur aan te bieden en om spullen te huren. Hierbij fungeren zij als tussenpersoon en mogelijk als bezorgdienst. Voor hen is het gunstig als er veel transacties zijn aangezien zij hier aan verdienen. Het is dus van belang dat veel mensen gebruiken van de dienst. Daarnaast is het voor hen interessant om een beeld te krijgen van het aantal en het type transacties dat plaatsvindt. 
@@ -19,6 +19,7 @@ Ik zal veel kennis moet opdoen over het laten verschijnen van data op basis van 
 - https://bl.ocks.org/mbostock/899711
 - http://bl.ocks.org/marufbd/7191903 
 
-
-
+### Pagina voorbeeld
+![alt text](https://github.com/JelleMul/programmeerproject/blob/master/pagina%20programmeerproject%20voorbeeld.png "Voorbeeld pagina")
+In de afbeelding worden de verschillende visualisaties weergeven. Op de kaart worden met de rondjes het vertrekpunt van de verschillende transacties weergegeven. Rechtsbovenin wordt de huidige tijd afgebeeld. Wanneer 2 punten met elkaar zijn verbonden betekend dit dat deze transactie heeft plaatsgevonden. Wanneer het punt nog niet verbonden is met een ander punt zal deze later op de dag nog plaatsvinden. Bij het punt linksonderin is te zien dat de bezorger nog onderweg is aangezien het wel vertrokken is maar nog niet eindigt bij een punt. 
 

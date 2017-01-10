@@ -22,8 +22,8 @@ http://chimera.labs.oreilly.com/books/1230000000345/index.html
 5. http://jsfiddle.net/cez5124k/7/ in combinatie met http://jsfiddle.net/zppL1pm7/7/
 
 ### Dataset1
-![alt text]https://github.com/JelleMul/Programmeerproject/blob/master/doc/Sample_transactiondata.PNG "Voorbeeld Dataset1")
+![alt text](https://github.com/JelleMul/Programmeerproject/blob/master/doc/Sample_transactiondata.PNG "Voorbeeld Dataset1")
 
 ### Dataset 2
-![alt text]https://github.com/JelleMul/Programmeerproject/blob/master/doc/Sample_Aerchtypedata.PNG "Voorbeeld Dataset2")
+![alt text](https://github.com/JelleMul/Programmeerproject/blob/master/doc/Sample_Aerchtypedata.PNG "Voorbeeld Dataset2")
 

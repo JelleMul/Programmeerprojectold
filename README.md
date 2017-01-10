@@ -1,8 +1,8 @@
-# Programmeerproject
+# Programmeerproject - README
 ### Jelle Mul
 ### 11402148
 
-Het bedrijf Peerby Go is een bedrijf dat mensen de mogelijkheid biedt om spullen te huur aan te bieden en om spullen te huren. Hierbij fungeren zij als tussenpersoon en mogelijk als bezorgdienst. Voor hen is het gunstig als er veel transacties zijn aangezien zij hier aan verdienen. Het is dus van belang dat veel mensen gebruiken van de dienst. Daarnaast is het voor hen interessant om een beeld te krijgen van het aantal en het type transacties dat plaatsvindt. 
+Het bedrijf Peerby Go is een bedrijf dat mensen de mogelijkheid biedt om spullen te huur aan te bieden en om spullen te huren. Hierbij fungeren zij als tussenpersoon en mogelijk als bezorgdienst. Voor hen is het gunstig als er veel transacties zijn aangezien zij hier aan verdienen. Het is dus van belang dat veel mensen gebruiken van de dienst. Daarnaast is het voor hen interessant om een beeld te krijgen van het aantal en het type transacties dat plaatsvindt.
 
 Dit kan op de volgende wijze worden gedaan. In de data wordt van een te bezorgen product de vertrektijd gegeven met daarbij de lengte en breedtegraad, en de lengte en breedtegraad van het aankomstpunt. Op basis van de afstand kan met een combinatie van D3 en de google maps API een lijn worden getrokken tussen het vertrek en aankomstpunt. Hier mee kan dus "realtime" van verschillende transactie de voorspelde route van de bezorger worden weergegeven. Deze kaart is voornamelijk interresant als reclame methode om mensen inzicht te geven in het aantal transacties in de buurt wat hun door de visuele aantrekkelijkheid aanspoort om ook de dienst te gebruiken
 
@@ -17,9 +17,8 @@ De 3 eerder genoemde visualisaties zijn de verschillende onderdelen van de data.
 ### Technische problemen en beperkingen
 Ik zal veel kennis moet opdoen over het laten verschijnen van data op basis van een tijdstip, en het leren gebruiken van D3 in combinatie met de google maps API. 2 nuttige bronnen hierbij staan hieronder:
 - https://bl.ocks.org/mbostock/899711
-- http://bl.ocks.org/marufbd/7191903 
+- http://bl.ocks.org/marufbd/7191903
 
 ### Pagina voorbeeld
 ![alt text](https://github.com/JelleMul/programmeerproject/blob/master/pagina%20programmeerproject%20voorbeeld.png "Voorbeeld pagina")
-In de afbeelding worden de verschillende visualisaties weergeven. Op de kaart worden met de rondjes het vertrekpunt van de verschillende transacties weergegeven. Rechtsbovenin wordt de huidige tijd afgebeeld. Wanneer 2 punten met elkaar zijn verbonden betekend dit dat deze transactie heeft plaatsgevonden. Wanneer het punt nog niet verbonden is met een ander punt zal deze later op de dag nog plaatsvinden. Bij het punt linksonderin is te zien dat de bezorger nog onderweg is aangezien het wel vertrokken is maar nog niet eindigt bij een punt. 
-
+In de afbeelding worden de verschillende visualisaties weergeven. Op de kaart worden met de rondjes het vertrekpunt van de verschillende transacties weergegeven. Rechtsbovenin wordt de huidige tijd afgebeeld. Wanneer 2 punten met elkaar zijn verbonden betekend dit dat deze transactie heeft plaatsgevonden. Wanneer het punt nog niet verbonden is met een ander punt zal deze later op de dag nog plaatsvinden. Bij het punt linksonderin is te zien dat de bezorger nog onderweg is aangezien het wel vertrokken is maar nog niet eindigt bij een punt.

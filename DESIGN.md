@@ -21,6 +21,7 @@ http://jaketrent.com/post/animating-d3-line/
 http://chimera.labs.oreilly.com/books/1230000000345/index.html
 5. http://jsfiddle.net/cez5124k/7/ in combinatie met http://jsfiddle.net/zppL1pm7/7/
 6. http://tipstrategies.com/interactive/2014_map/
+7. http://bl.ocks.org/NPashaP/96447623ef4d342ee09b super handige combo van barchart en piechart
 
 ### Dataset1
 ![alt text](https://github.com/JelleMul/Programmeerproject/blob/master/doc/Sample_transactiondata.PNG "Voorbeeld Dataset1")
